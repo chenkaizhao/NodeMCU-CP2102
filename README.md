@@ -8,7 +8,7 @@ ESP8266是一款高度集成的芯片，旨在满足新的互联世界的需求�
 1.下载最新版本的Arduino IDE。(官网)     
 2.安装IDE。     
 3.将Arduino IDE设置为：转到“文件”->“首选项”，复制以下URL以获取ESP板管理器扩展：http://arduino.esp8266.com/stable/package_esp8266com_index.json     
-在URL允许Arduino IDE使用它之前使用http：// ...否则会给一个协议错误。
+在URL允许Arduino IDE使用它之前使用http：// ...否则会给一个协议错误。     
 4.转到工具>板>板管理器>键入“ esp8266”并下载社区esp8266并安装。     
 5.将芯片设置为：       
 工具->板-> NodeMCU 1.0（ESP-12E模块）     
