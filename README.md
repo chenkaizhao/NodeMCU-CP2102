@@ -17,7 +17,7 @@ ESP8266是一款高度集成的芯片，旨在满足新的互联世界的需求�
 工具->上传速度-> 921600     
 工具->端口->（无论什么）     
 6.在Github下载并运行32位flasher exe（在Github上搜索nodemcu / nodemcu-flasher / tree / master /）github.com/nodemcu/nodemcu- flasher / tree / master / Win32 / Release     
-或在以下位置下载并运行64位flasher exe：github.com/nodemcu/nodemcu-flasher/tree/master/Win64/Release
+或在以下位置下载并运行64位flasher exe：github.com/nodemcu/nodemcu-flasher/tree/master/Win64/Release     
 7.在Arduino IDE中，寻找老式的Blink程序。加载，编译和上传。    
 8.转到文件>示例> ESP8266>闪烁，它将开始闪烁。     
 9.构建固件
